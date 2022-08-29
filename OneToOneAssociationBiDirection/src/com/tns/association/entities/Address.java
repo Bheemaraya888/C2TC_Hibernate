@@ -7,6 +7,10 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.OneToOne;
 import javax.persistence.Table;
+/**
+ * 
+ * @author Bheemaraya
+ */
 
 @Entity
 @Table(name="address")

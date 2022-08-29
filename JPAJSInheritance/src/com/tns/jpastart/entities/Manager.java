@@ -3,6 +3,10 @@ package com.tns.jpastart.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.Table;
+/**
+ * 
+ * @author Bheemaraya
+ */
 
 @Entity
 @Table(name="mgr_store3")

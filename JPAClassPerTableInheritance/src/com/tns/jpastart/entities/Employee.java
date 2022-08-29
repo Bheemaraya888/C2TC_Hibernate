@@ -9,6 +9,12 @@ import javax.persistence.Inheritance;
 import javax.persistence.InheritanceType;
 import javax.persistence.Table;
 
+/**
+ * 
+ * @author Bheemaraya
+ */
+
+
 @Entity
 @Table(name="employee")
 @Inheritance(strategy=InheritanceType.TABLE_PER_CLASS)	

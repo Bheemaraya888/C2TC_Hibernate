@@ -6,6 +6,10 @@ import javax.persistence.Persistence;
 
 import com.tns.association.entities.Address;
 import com.tns.association.entities.Student;
+/**
+ * 
+ * @author Bheemaraya
+ */
 
 public class Client {
 	

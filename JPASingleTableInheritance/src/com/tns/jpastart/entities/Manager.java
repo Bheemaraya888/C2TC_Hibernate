@@ -2,6 +2,10 @@ package com.tns.jpastart.entities;
 
 import javax.persistence.DiscriminatorValue;
 import javax.persistence.Entity;
+/**
+ * 
+ * @author Bheemaraya
+ */
 
 @Entity
 @DiscriminatorValue("MGR")	//value for manager rows in Discriminator column

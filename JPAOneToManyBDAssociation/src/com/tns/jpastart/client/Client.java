@@ -6,6 +6,10 @@ import javax.persistence.Persistence;
 
 import com.tns.jpastart.entities.Department;
 import com.tns.jpastart.entities.Employee;
+/**
+ * 
+ * @author Bheemaraya
+ */
 
 public class Client {
 

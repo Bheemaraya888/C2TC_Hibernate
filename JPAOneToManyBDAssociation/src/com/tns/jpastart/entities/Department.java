@@ -8,6 +8,11 @@ import javax.persistence.Id;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
+/**
+ * 
+ * @author Bheemaraya
+ */
+
 @Entity
 @Table(name="department")
 public class Department {
